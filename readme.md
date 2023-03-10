@@ -2,7 +2,7 @@
 
 # Link Tree
 
-link tree
+Uma página onde o usuário pode adicionar sua foto e seus links que devem ser agregados. Esta página se trata somente de um template, por não conter uma estrutura de backend.
 
 ## Tecnologias
 
