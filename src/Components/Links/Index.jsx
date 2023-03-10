@@ -31,6 +31,7 @@ const Links = () => {
             href={elemento.url}
             target="_blank"
             className="subtitulo sombra-subtitulo-hover"
+            rel="noreferrer"
           >
             {elemento.nome}
           </a>
