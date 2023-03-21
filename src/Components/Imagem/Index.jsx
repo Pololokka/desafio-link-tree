@@ -8,7 +8,7 @@ const MostraImagem = () => {
   );
 
   return (
-    <div className="foto__borda">
+    <div>
       <div>
         <label htmlFor="link-foto" className="texto">
           Link da sua foto:
@@ -20,11 +20,7 @@ const MostraImagem = () => {
           className="texto input__geral"
         />
       </div>
-      <img
-        src={imagem}
-        alt="Imagem do usuário"
-        className="imagem__container sombra-elemento-hover"
-      />
+      <img src={imagem} alt="Imagem do usuário" className="imagem__container" />
     </div>
   );
 };

@@ -30,7 +30,7 @@ const Links = () => {
             key={elemento.id}
             href={elemento.url}
             target="_blank"
-            className="subtitulo sombra-subtitulo-hover"
+            className="texto btn__geral"
             rel="noreferrer"
           >
             {elemento.nome}

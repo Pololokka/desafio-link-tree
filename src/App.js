@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1 className="titulo sombra-titulo-hover">Link Tree Customizável</h1>
+        <h1 className="titulo titulo-hover">Link Tree Customizável</h1>
       </header>
 
       <main className="main__container">
